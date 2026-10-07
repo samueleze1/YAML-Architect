@@ -4,7 +4,7 @@
 
 The **Kubernetes YAML Architect** project is a hands-on exercise focused on creating and managing Kubernetes resource manifests using YAML. The project demonstrates how to define a Kubernetes Pod, work with API versions and resource types, and build a valid manifest step by step.
 
-## 🎯 Project Objectives
+## Project Objectives
 
 - Create a Kubernetes Pod manifest using YAML.
 - Understand the basic structure of a Kubernetes manifest.
@@ -13,7 +13,7 @@ The **Kubernetes YAML Architect** project is a hands-on exercise focused on crea
 - Use command-line tools to manage project files.
 - Track the project using Git and GitHub.
 
-## 🛠️ Technologies & Tools
+## Technologies & Tools
 
 - Kubernetes
 - YAML
@@ -126,7 +126,7 @@ Capture the terminal output showing the current Pod manifest.
 - Command-line YAML file creation and management
 - Manifest verification using terminal commands
 
-## 🎯 Conclusion
+## Conclusion
 
 The **Kubernetes YAML Architect** project demonstrated how to create and structure a Kubernetes Pod manifest using YAML. The project covered key Kubernetes fields such as `apiVersion`, `kind`, `metadata`, and `spec`, while providing practical experience with YAML syntax and command-line configuration.
 
